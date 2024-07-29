@@ -1,12 +1,12 @@
-**NAME**:LAVURI SIMHADRI
+**NAME**:Pranav Nallari
 
 **Company**:CODTECH IT SOLUTIONS
 
-**ID**: CT4DS3642
+**ID**: CT08DS4278
 
 **Domain**:Data Scientist
 
-**Duration**:July 1st to August 1st 2024
+**Duration**:July 5th to August 5th 2024
 
 **Mentor**:N.Santhosh Kumar
 # CODTECH-Task2
